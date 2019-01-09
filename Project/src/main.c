@@ -50,6 +50,7 @@
 /** @defgroup USBH_USR_MAIN_Private_Defines
 * @{
 */ 
+
 /**
 * @}
 */ 
